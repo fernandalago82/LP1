@@ -1,6 +1,6 @@
 package Main;
 
-//@author Radames J Halmeman  - rjhalmeman@gmail.com
+//@author Fernanda Lago Agostinho
 class Processamento {
 
     public Double getSoma(double a, double b) {

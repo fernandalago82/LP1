@@ -1,6 +1,6 @@
 package Main;
 
-//@author Radames J Halmeman  - rjhalmeman@gmail.com
+//@author Fernanda Lago Agostinho
 import java.text.DecimalFormat;
 
 class Saida {
